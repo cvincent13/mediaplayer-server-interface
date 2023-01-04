@@ -3,7 +3,8 @@
 // Created on 21/10/2018
 //
 
-#include "multimedia.h"
+#include "photo.h"
+#include "video.h"
 #include <iostream>
 #include <string>
 #include <ostream>
@@ -11,9 +12,9 @@ using namespace std;
 
 int main(int argc, const char* argv[])
 {
-    Multimedia * m1 = new Multimedia();
-    Multimedia * m2 = new Multimedia("name2", "pathname2");
-    Multimedia * m3 = new Multimedia("name3", "pathname3");
+    Photo * m1 = new Photo();
+    Video * m2 = new Video("name2", "pathname2", 12);
+    Photo * m3 = new Photo("name3", "pathname3", 1.3, 5.3);
     m1->display(std::cout);
     m2->display(std::cout);
     m3->display(std::cout);

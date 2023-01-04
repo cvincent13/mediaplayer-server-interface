@@ -13,14 +13,22 @@ private:
 
 public:
     Multimedia();
+
     Multimedia(std::string name, std::string pathname);
+
     void setName(std::string name);
+
     void setPathname(std::string pathname);
+
     std::string getName() const;
+
     std::string getPathname() const;
+
     ~Multimedia();
 
-    void display(std::ostream & s) const;
+    virtual void display(std::ostream & s) const;
+
+    virtual void play() const = 0;
 };
 
 #endif // MULTIMEDIA_H

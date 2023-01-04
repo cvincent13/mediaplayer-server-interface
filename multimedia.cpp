@@ -42,5 +42,5 @@ Multimedia::~Multimedia()
 
 void Multimedia::display(std::ostream & s) const
 {
-    s << "Name: " << name << ", Pathname:  " << pathname << std::endl;
+    s << "Name: " << name << ", Pathname:  " << pathname;
 }
