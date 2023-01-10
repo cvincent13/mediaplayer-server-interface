@@ -23,7 +23,7 @@ float Photo::getLongitude() const
 void Photo::display(std::ostream & s) const
 {
     Multimedia::display(s),
-            s << ", LatitudehbjghbgCCCCCc: " << latitude
+            s << ", Latitude: " << latitude
               << ", Longitude: " << longitude << std::endl;
 }
 
