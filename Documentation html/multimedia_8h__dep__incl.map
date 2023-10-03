@@ -1,0 +1,8 @@
+<map id="cpp/multimedia.h" name="cpp/multimedia.h">
+<area shape="rect" id="node1" title="Classe de base dans l&#39;héritage." alt="" coords="51,5,187,32"/>
+<area shape="rect" id="node2" href="$database_8h.html" title="Tables de gestion des données." alt="" coords="102,229,224,256"/>
+<area shape="rect" id="node3" href="$group_8h.html" title="Liste d&#39;objet Multimedia." alt="" coords="27,155,126,181"/>
+<area shape="rect" id="node4" href="$photo_8h.html" title="Sous&#45;classe de Multimedia pour les photos." alt="" coords="114,80,212,107"/>
+<area shape="rect" id="node5" href="$video_8h.html" title="Sous&#45;classe de Multimedia pour les vidéos." alt="" coords="237,80,334,107"/>
+<area shape="rect" id="node6" href="$film_8h.html" title="Sous&#45;classe de Video avec des chapitres." alt="" coords="252,155,338,181"/>
+</map>

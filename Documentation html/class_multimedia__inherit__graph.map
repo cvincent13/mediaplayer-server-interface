@@ -1,0 +1,6 @@
+<map id="Multimedia" name="Multimedia">
+<area shape="rect" id="node1" title="Classe de base des médias." alt="" coords="28,5,124,32"/>
+<area shape="rect" id="node2" href="$class_photo.html" title="Sous&#45;classe de Multimédia pour les photos." alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node3" href="$class_video.html" title="Sous&#45;classe de Multimédia pour les vidéos." alt="" coords="88,80,147,107"/>
+<area shape="rect" id="node4" href="$class_film.html" title="Sous&#45;classe de Vidéo pour les films." alt="" coords="92,155,143,181"/>
+</map>
